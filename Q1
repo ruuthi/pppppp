@@ -1,0 +1,51 @@
+1.
+package com.company;
+
+public class paciente {
+    private String nome;
+    private float nascimento;
+    private String sexo;
+    private String tp_sanguineo;
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome = nome;
+    }
+
+    public float getNascimento() {
+        return nascimento;
+    }
+
+    public void setNascimento(float nascimento) {
+        this.nascimento = nascimento;
+    }
+
+    public String getSexo() {
+        return sexo;
+    }
+
+    public void setSexo(String sexo) {
+        this.sexo = sexo = sexo;
+        {
+        }
+    }
+
+    public String getTp_sanguineo() {
+        return tp_sanguineo;
+    }
+
+    public void setTp_sanguineo(String tp_sanguineo) {
+        this.tp_sanguineo = tp_sanguineo = tp_sanguineo;
+    }
+
+    {
+        public void mostraDados
+        System.out.println("Nome" + this.nome);
+        System.out.println("Nascimento" + this.nascimento);
+        System.out.println("Sexo" + this.sexo);
+        System.out.println("Tp_sanguineo" + this.tp_sanguineo);
+    }
+}

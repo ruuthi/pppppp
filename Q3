@@ -1,0 +1,11 @@
+3.
+package com.company;
+
+public class lutador {
+    private String nome;
+    private float energia;
+    private float força;
+}
+    lutador lutador1 = new lutador("Ronald","50%","90%");
+ System.out.println(médico1.getnome());
+

@@ -1,0 +1,26 @@
+2. 
+package com.company;
+
+public class Médico {
+    private String nome;
+    private float  codigo;
+    private String sexo;
+    private String especialidade;
+    private float  endereço;
+    }
+}
+Médico médico1 = new Médico("Genaldo","R23052005","Masculino","Psiquiatra","Jeremias 1500");
+ System.out.println(médico1.getnome());
+ }
+
+3.
+package com.company;
+
+public class lutador {
+    private String nome;
+    private float energia;
+    private float força;
+}
+    lutador lutador1 = new lutador("Ronald","50%","90%");
+ System.out.println(médico1.getnome());
+
